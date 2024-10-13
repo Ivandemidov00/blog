@@ -1,3 +1,7 @@
 [submodule "ivan-demidov/themes/PaperMod"]
 	path = ivan-demidov/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "ivan-demidov/public"]
+	path = ivan-demidov/public
+	url = https://github.com/Ivandemidov00/ivan-demidov.github.io.git
+	branch = main
